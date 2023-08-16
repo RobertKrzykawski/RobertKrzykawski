@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RobertKrzykawski
 - 👀 I’m interested in DevOps career
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on learning Python and JavaScript
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on learning Python and Java
 - 📫 How to reach me? Best on LinkedIn: https://www.linkedin.com/in/robert-krzykawski-5a3028239/
